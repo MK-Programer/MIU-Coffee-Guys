@@ -1,4 +1,4 @@
-# MIU Caffee Guys
+# MIU Coffee Guys
 
 PHP OOP coffee guys shop 
 Register :
