@@ -1,6 +1,6 @@
 # MIU Caffee Guys
 
-PHP OOP ecommerce
+PHP OOP coffee guys shop 
 Register :
 FILTER_VALIDATE_EMAIL
 If Email already exist
