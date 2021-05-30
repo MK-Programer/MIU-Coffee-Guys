@@ -15,3 +15,10 @@ License Expired for user
 Throttle login
 
 Add to card using Cookie
+
+Demo:https://miucaffeeshop.000webhostapp.com/
+
+Admin : Mostafa1810751@miuegypt.edu.eg
+Password: Mkhaled18
+User: kareem1802405@miuegypt.edu.eg
+Password Kareem18
