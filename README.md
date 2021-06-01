@@ -16,6 +16,5 @@ Throttle login
 admin can deactivate and activate users accounts
 Add to card using Cookie
 
-The hosting used is 000webhostapp.com
 Demo:https://miucaffeeshop.000webhostapp.com/
 
