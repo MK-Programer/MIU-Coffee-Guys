@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#sidebarMenu .nav{
+    margin-top: 50px;
+    padding-bottom: 100px;
+}
+.nav-link {
+    font-family: 'Open Sans', sans-serif;
+     font-size: 18px;
+}
+.h2{
+    color:black;
+}
+.change{
+    position: fixed;
+    right: 15px;
+    top: 150px;
+}
