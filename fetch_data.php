@@ -1,5 +1,6 @@
 
 <?php
+error_reporting(E_ERROR | E_WARNING | E_PARSE); 
 session_start();
 //fetch_data.php
 
@@ -8,7 +9,7 @@ $display = new Products();
 
 if(isset($_POST["action"]))
 {
-    $id = $SESSION['admin']['id'];
+    $id = $_SESSION['admin']['id'];
  $query = "
   SELECT * FROM products WHERE id_admin != '$id'
  ";
