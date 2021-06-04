@@ -1,0 +1,19 @@
+PHP OOP ecommerce
+Register :
+FILTER_VALIDATE_EMAIL
+If Email already exist
+Hash password 
+Password and Confirm password 
+Password must be more than 8 characters
+Email Verification Code for register
+
+Login:
+Check control email 
+Show this user are verified or no
+If no sent  againa verification code to your email
+Remember me 
+Role admin or user
+License Expired for user
+Throttle login
+
+Add to card using Cookie
