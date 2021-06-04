@@ -20,10 +20,4 @@ Demo:https://miucaffeeshop.000webhostapp.com/
 Sign up for user
 Admin: Mostafa1810751@miuegypt.edu.eg 
 Password: Mkhaled18
-asssssssssssssssssssssssssssssssssssssssssssssssss
-ssssssssssssssssssssssssssssssssssssssssssssssss
-ssssssssssssssssssssssssssssssssssssssssssss
-sssssssssssssssssssssssssssssssssssssssssss
-ssssssssssssssssssssssssssssssssssssssssss
-sssssssssssssssssssssssssssssssssssssss
-ssssssssssss
+
