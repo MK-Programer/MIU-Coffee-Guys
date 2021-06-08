@@ -9,8 +9,6 @@ class Person
     public $con;
     public $errors = [];
     public $get_errors_login = [];
-    public $email_verified = [];
-    public $email_verifieds = "";
 
     public function __construct()
     {
@@ -61,6 +59,7 @@ class Person
         } else {
             $this->errors[] = "All fields are required!";
         }
+        
     }
 
     // public function verified($post)
