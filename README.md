@@ -7,7 +7,7 @@ If Email already exist
 Hash password 
 Password and Confirm password 
 Password must be more than 8 characters
-##
+<br/>
 Login:
 Remember me 
 Role admin or user
