@@ -17,7 +17,4 @@ admin can deactivate and activate users accounts<br/>
 Add to card using Cookie<br/>
 ##
 Demo:https://miucaffeeshop.000webhostapp.com/<br/>
-Sign up for user<br/>
-Admin: Mostafa1810751@miuegypt.edu.eg <br/>
-Password: Mkhaled18<br/>
 Trello: https://trello.com/invite/b/uY59Vfi6/17a61fb7036987955f2979fc48020363/coffee-guys<br/>
